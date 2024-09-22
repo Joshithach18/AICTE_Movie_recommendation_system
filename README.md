@@ -1,0 +1,1 @@
+A movie recommendation system uses machine learning to suggest personalized films based on user preferences and behavior. This project built a model using content-based and collaborative filtering techniques with Python. It analyzes user ratings, movie genres, and similar viewers' activity to provide accurate recommendations, enhancing the overall user experience.
